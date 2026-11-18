@@ -1,9 +1,5 @@
 # 竖者 · AI Agent Developer
 
-AI Agent 产品开发方向 · LLM 应用工程 · 大模型训练与微调
-
-正在寻找 **AI Agent 产品开发方向** 的实习机会，详见简历。
-
 ## 🔨 项目
 
 ### [RS-Agent](https://github.com/g164765280-netizen/rs-agent) — 遥感变化检测多智能体 RAG 系统
